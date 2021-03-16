@@ -1,0 +1,17 @@
+com\project\User\UserApplication.class
+com\project\User\dto\SellerDTO.class
+com\project\User\dto\BuyerDTO.class
+com\project\User\controller\UserController.class
+com\project\User\service\UserService.class
+com\project\User\entity\Seller.class
+com\project\User\repository\WishlistRepository.class
+com\project\User\dto\CartDTO.class
+com\project\User\entity\Wishlist.class
+com\project\User\repository\BuyerRepository.class
+com\project\User\repository\SellerRepository.class
+com\project\User\entity\BuyerProductId.class
+com\project\User\repository\CartRepository.class
+com\project\User\dto\WishlistDTO.class
+com\project\User\Validator\Validator.class
+com\project\User\entity\Buyer.class
+com\project\User\entity\Cart.class
