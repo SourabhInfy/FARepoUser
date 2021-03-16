@@ -46,12 +46,6 @@
             <version>5.8.0-M1</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-    <groupId>junit</groupId>
-    <artifactId>junit</artifactId>
-    <scope>test</scope>
-</dependency>
-        
 	</dependencies>
 
 	<build>
@@ -121,12 +115,12 @@
             </plugin>
 		</plugins>
 	</build>
-	<repositories>
+<repositories>
 <repository>
 <id>spring-milestones</id>
 <name>Spring Milestones</name>
 <url>https://repo.spring.io/milestone</url>
 </repository>
 </repositories>
-
 </project>
+
